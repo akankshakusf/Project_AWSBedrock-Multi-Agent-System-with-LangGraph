@@ -2,6 +2,12 @@
 ### Built with LangGraph, Mistral, Amazon Bedrock — Supercharged by RAG
 
 **Project layout** -  <img src="https://github.com/akankshakusf/Project_AWSBedrock-Multi-Agent-System-with-LangGraph/blob/master/Diagram1.png" width="50%" />
+
+
+
+
+
+
 **Project layout** -  <img src="https://github.com/akankshakusf/Project_AWSBedrock-Multi-Agent-System-with-LangGraph/blob/master/Diagram2.drawio.svg" width="100%" />
 
 
